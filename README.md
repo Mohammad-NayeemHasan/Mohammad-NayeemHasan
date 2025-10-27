@@ -38,6 +38,41 @@ I'm a **.NET Developer** passionate about building scalable, high-performance we
 
 ## 📈 GitHub Stats
 ![Nayeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammad-NayeemHasan&show_icons=true&theme=radical)
+## 🎓 Course Title: Asp.Net
+
+A comprehensive full-stack development journey combining **.NET, Angular, React, and modern web technologies**.
+
+| 🧩 Module | 📘 Description | ⏱️ Duration (Hours) |
+|-----------|----------------|---------------------|
+| **Module 01** | Introduction to Computing | 40 |
+| **Module 02** | Design and implement databases with MS SQL Server 2019 EE | 100 |
+| **Module 03** | Programming with C# 10 and .NET 6 | 136 |
+| **Module 04** | Programming in HTML5, CSS3, JavaScript, jQuery, NodeJS & ExpressJS | 100 |
+| **Module 05** | Introduction to XML, ADO.NET & Reporting | 28 |
+| **Module 06** | Developing ASP.NET MVC 5 Web Applications | 60 |
+| **Module 07** | Entity Framework 6 Code First using ASP.NET MVC 5 | 20 |
+| **Module 08** | Developing Web APIs, Windows Azure and Web Services using ASP.NET MVC 5 | 48 |
+| **Module 09** | Developing ASP.NET Core Web Applications | 60 |
+| **Module 10** | Entity Framework Core Code First using ASP.NET Core | 16 |
+| **Module 11** | Developing Web APIs, Windows Azure and Web Services using ASP.NET Core | 36 |
+| **Module 12** | Advanced Web Application Development with Angular | 52 |
+| **Module 13** | Advanced Web Application Development with React | 40 |
+| **Module 14** | Developing Cross Platform Mobile Applications using Blazor & MAUI | 40 |
+| **Module 15** | Final Course Project | 12 |
+| 🧮 **Total Course Duration** | — | **788 Hours** |
+
+---
+
+💡 **Key Highlights:**
+- Hands-on experience with **ASP.NET MVC 5 & ASP.NET Core**
+- Built real-world projects using **Angular, React, and Blazor**
+- Worked with **Entity Framework, Web API, and Azure Services**
+- Gained strong foundations in **SQL Server 2019 EE & ADO.NET**
+- Explored **cross-platform mobile development** with **.NET MAUI**
+
+---
+
+📚 *This course shaped my full-stack development journey — from backend architecture to frontend interactivity and cloud deployment.*
 
 ---
 

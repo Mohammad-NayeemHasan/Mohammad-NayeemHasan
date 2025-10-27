@@ -46,38 +46,42 @@
 
 ---
 
-## 🎓 Course Title: ASP.NET Full Stack (Angular & React)
+## 🎓 Full Stack Development Course: Angular & React
 
-A comprehensive full-stack development journey combining **.NET, Angular, React, and modern web technologies.**
-
-| 🧩 Module | 📘 Description | ⏱️ Duration (Hours) |
-|-----------|----------------|---------------------|
-| **01** | Introduction to Computing | 40 |
-| **02** | Design and Implement Databases with MS SQL Server 2019 EE | 100 |
-| **03** | Programming with C# 10 and .NET 6 | 136 |
-| **04** | Programming in HTML5, CSS3, JavaScript, jQuery, NodeJS & ExpressJS | 100 |
-| **05** | Introduction to XML, ADO.NET & Reporting | 28 |
-| **06** | Developing ASP.NET MVC 5 Web Applications | 60 |
-| **07** | Entity Framework 6 Code First using ASP.NET MVC 5 | 20 |
-| **08** | Developing Web APIs, Windows Azure, and Web Services (MVC 5) | 48 |
-| **09** | Developing ASP.NET Core Web Applications | 60 |
-| **10** | Entity Framework Core Code First using ASP.NET Core | 16 |
-| **11** | Developing Web APIs, Azure, and Web Services (ASP.NET Core) | 36 |
-| **12** | Advanced Web Application Development with Angular | 52 |
-| **13** | Advanced Web Application Development with React | 40 |
-| **14** | Cross-Platform Mobile Development using Blazor & .NET MAUI | 40 |
-| **15** | Final Course Project | 12 |
-| 🧮 **Total Duration** | — | **788 Hours** |
+> 🧠 A complete journey from fundamentals to advanced full-stack web development — mastering .NET, Angular, React, and modern web technologies.
 
 ---
 
-### 💡 Key Highlights
-- Hands-on experience with **ASP.NET MVC 5 & ASP.NET Core**
-- Built full-stack projects using **Angular, React, and Blazor**
-- Implemented **Entity Framework, Web API, and Azure Services**
-- Strong foundation in **SQL Server 2019 EE & ADO.NET**
-- Explored **Cross-Platform Mobile Development** with **.NET MAUI**
+### 🧩 Course Modules
 
+| 🚀 **Module** | 📘 **Description** |
+|:--------------|:------------------|
+| **01** | 💻 *Introduction to Computing* |
+| **02** | 🗄️ *Design & Implement Databases with MS SQL Server 2019 EE* |
+| **03** | ⚙️ *Programming with C# 10 and .NET 6* |
+| **04** | 🌐 *HTML5, CSS3, JavaScript, jQuery, NodeJS & ExpressJS* |
+| **05** | 🧾 *Introduction to XML, ADO.NET & Reporting* |
+| **06** | 🧱 *Developing ASP.NET MVC 5 Web Applications* |
+| **07** | 🧩 *Entity Framework 6 Code First using ASP.NET MVC 5* |
+| **08** | ☁️ *Web APIs, Windows Azure & Web Services with MVC 5* |
+| **09** | ⚡ *Developing ASP.NET Core Web Applications* |
+| **10** | 🧠 *Entity Framework Core Code First using ASP.NET Core* |
+| **11** | 🔗 *Web APIs, Azure & Web Services with ASP.NET Core* |
+| **12** | 🅰️ *Advanced Web Application Development with Angular* |
+| **13** | ⚛️ *Advanced Web Application Development with React* |
+| **14** | 📱 *Cross-Platform Mobile Development using Blazor & .NET MAUI* |
+| **15** | 🏆 *Final Course Project* |
+
+---
+
+
+### 🧰 Tech Stack Highlights
+
+> C# • .NET 6+ • ASP.NET MVC/Core • SQL Server • ADO.NET • Entity Framework  
+> HTML5 • CSS3 • JavaScript • jQuery • Node.js • Express.js  
+> Angular • React • Blazor • .NET MAUI • Azure Cloud • RESTful APIs
+
+---
 📚 *This course shaped my journey — from backend architecture to modern frontend frameworks and cloud deployment.*
 
 ---
